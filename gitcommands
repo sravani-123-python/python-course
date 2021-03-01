@@ -1,0 +1,9 @@
+    1  git status
+    2  git init
+    3  ls
+    4  ls-a
+    5   ls- a
+    6  ls -a
+    7  git branch
+    8  history
+    9  history > gitcommands
