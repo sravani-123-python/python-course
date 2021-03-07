@@ -21,27 +21,29 @@
    21  
    22  history
    23  history
-   24  git push
-   25  git push --set-upstream origin master
-   26  git push 
-   27  git pull
-   28  git push --set-upstream-to=origin/master mastare
-   29  git push --set-upstream-to=origin/master master
-   30  git push -u origin master
-   31  git status
+   24  ls
+   25  ls -a
+   26  git status
+   27  git branch
+   28  git checkout dev
+   29  git branch
+   30  ls
+   31  history
    32  ls
-   33  cd gitcommands 
+   33  vim all-info
    34  ls
-   35  git branch
-   36  git branch dev
-   37  git branch
-   38  git chekcout dev
-   39  git checkout dev
+   35  git status
+   36  git add .
+   37  git status
+   38  git commit -m " save the pdf files"
+   39  git status
    40  git push
-   41  git push --set-upstream origin dev
-   42  git status
-   43  history
-   44  ls
-   45  git status
-   46  ls
-   47  history > gitcommands 
+   41  touch issues
+   42  touch interviewquesions
+   43  ls
+   44  git status
+   45  git add .
+   46  git commit -m " add the empty files"
+   47  git status
+   48  history
+   49  history > gitcommands 
